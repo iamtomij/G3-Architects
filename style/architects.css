@@ -1,0 +1,38 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.navbar {
+  justify-content: space-between;
+  align-items: center;
+}
+.display-flex{
+  display: flex;
+}
+.nav-item {
+  list-style: none;
+  margin-right: 40px;
+}
+.nav-link {
+  text-decoration: none;
+}
+.bg-light {
+  background-color: rgba(255, 144, 14, 0.08);
+}
+
+/* dark 01 */
+.text-black {
+  color: #131313;
+}
+/* dark 02 */
+.text-gray {
+  color: #424242;
+}
+/* dark 03 */
+.text-light-gray {
+  color: #727272;
+}
+/* dark 04 */
+.navbar, .banner {
+  max-width: 1140px;
+  margin: 0 auto;
+}
