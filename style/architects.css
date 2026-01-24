@@ -138,6 +138,8 @@ body {
   border-radius: 8px;
   padding: 24px;
   margin-bottom: 32px;
+  background-color: #ffffff;
+  max-width: 586px;
 }
 .card-item h6 {
   font-size: 20px;
@@ -149,4 +151,9 @@ body {
   font-size: 16px;
   font-weight: 400;
   color: #727272;
+}
+.facts-container {
+  max-width: 1140px;
+  margin: 0 auto;
+
 }
