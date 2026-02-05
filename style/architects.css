@@ -155,5 +155,11 @@ body {
 .facts-container {
   max-width: 1140px;
   margin: 0 auto;
+}
+.facts-container .facts-cards{
+  display: flex;
+  justify-content: center;
+  gap: 124px;
+  margin-top: 75px;
 
 }
