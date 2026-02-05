@@ -161,5 +161,9 @@ body {
   justify-content: center;
   gap: 124px;
   margin-top: 75px;
+}
 
+.sponsor-container {
+  max-width: 1140px;
+  margin: 0 auto;
 }
